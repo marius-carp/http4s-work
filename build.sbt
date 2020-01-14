@@ -3,7 +3,7 @@ name := "http4s-work"
 
 version := "0.1"
 
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.0"
 
 resolvers += Resolver.sonatypeRepo("snapshots")
 
